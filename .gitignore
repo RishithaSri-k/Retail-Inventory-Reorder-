@@ -4,4 +4,4 @@ __pycache__/
 *.pyc
 .env
 .streamlit/secrets.toml
-.ipynb_checkpoints/
+.ipynb_checkpoints/train.csv
